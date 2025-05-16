@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.45080262, g: 0.5007299, b: 0.57472336, a: 1}
+  m_IndirectSpecularColor: {r: 0.45080286, g: 0.5007302, b: 0.57472384, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -312,69 +312,60 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &2138447877
+--- !u!1001 &1540991110
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 93083377421715034, guid: 03867d45493f7e0479bf98219709eb7d, type: 3}
-      propertyPath: m_Name
-      value: Truck
-      objectReference: {fileID: 0}
-    - target: {fileID: 93083377421715035, guid: 03867d45493f7e0479bf98219709eb7d, type: 3}
+    - target: {fileID: -8679921383154817045, guid: b953a9115bbbb52499d8b675c8f67975, type: 3}
       propertyPath: m_RootOrder
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 93083377421715035, guid: 03867d45493f7e0479bf98219709eb7d, type: 3}
+    - target: {fileID: -8679921383154817045, guid: b953a9115bbbb52499d8b675c8f67975, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 93083377421715035, guid: 03867d45493f7e0479bf98219709eb7d, type: 3}
+    - target: {fileID: -8679921383154817045, guid: b953a9115bbbb52499d8b675c8f67975, type: 3}
       propertyPath: m_LocalPosition.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 93083377421715035, guid: 03867d45493f7e0479bf98219709eb7d, type: 3}
+    - target: {fileID: -8679921383154817045, guid: b953a9115bbbb52499d8b675c8f67975, type: 3}
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 93083377421715035, guid: 03867d45493f7e0479bf98219709eb7d, type: 3}
+    - target: {fileID: -8679921383154817045, guid: b953a9115bbbb52499d8b675c8f67975, type: 3}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 93083377421715035, guid: 03867d45493f7e0479bf98219709eb7d, type: 3}
+    - target: {fileID: -8679921383154817045, guid: b953a9115bbbb52499d8b675c8f67975, type: 3}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 93083377421715035, guid: 03867d45493f7e0479bf98219709eb7d, type: 3}
+    - target: {fileID: -8679921383154817045, guid: b953a9115bbbb52499d8b675c8f67975, type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 93083377421715035, guid: 03867d45493f7e0479bf98219709eb7d, type: 3}
+    - target: {fileID: -8679921383154817045, guid: b953a9115bbbb52499d8b675c8f67975, type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 93083377421715035, guid: 03867d45493f7e0479bf98219709eb7d, type: 3}
+    - target: {fileID: -8679921383154817045, guid: b953a9115bbbb52499d8b675c8f67975, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 93083377421715035, guid: 03867d45493f7e0479bf98219709eb7d, type: 3}
+    - target: {fileID: -8679921383154817045, guid: b953a9115bbbb52499d8b675c8f67975, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 93083377421715035, guid: 03867d45493f7e0479bf98219709eb7d, type: 3}
+    - target: {fileID: -8679921383154817045, guid: b953a9115bbbb52499d8b675c8f67975, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6873528229979321338, guid: 03867d45493f7e0479bf98219709eb7d, type: 3}
-      propertyPath: m_Size.x
-      value: 2.5
+    - target: {fileID: 919132149155446097, guid: b953a9115bbbb52499d8b675c8f67975, type: 3}
+      propertyPath: m_Name
+      value: Truck
       objectReference: {fileID: 0}
-    - target: {fileID: 6873528229979321338, guid: 03867d45493f7e0479bf98219709eb7d, type: 3}
-      propertyPath: m_Center.z
-      value: 0.14
-      objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 1946556782, guid: 03867d45493f7e0479bf98219709eb7d, type: 3}
-  m_SourcePrefab: {fileID: 100100000, guid: 03867d45493f7e0479bf98219709eb7d, type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b953a9115bbbb52499d8b675c8f67975, type: 3}
